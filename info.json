@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "25220acc34e24899eec515d5b7ecf24e8fb61adf",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-05-02 14:31:15",
+    "files": 5,
+    "merge": false,
+    "message": "Fixes for CRAN\n"
+  },
+  "remote": "https://github.com/ropensci/tesseract",
+  "pkg": "tesseract"
+}
