@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/articles/intro.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/reference/ocr.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/reference/tessdata.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tesseract/reference/tesseract.html</loc>
+  </url>
+</urlset>

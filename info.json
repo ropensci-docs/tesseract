@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "913157029d05fccbe8ab76f7b9de45ca4cca66a0",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-11-20 14:44:32",
+    "files": 1,
+    "merge": false,
+    "message": "Remove a dead link\n"
+  },
+  "repo": "https://github.com/ropensci/tesseract",
+  "pkg": "tesseract"
+}
