@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "55b04ba2466204cc91194f7fba5527a233017502",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-09-06T12:30:05Z",
+    "files": 2,
+    "merge": false,
+    "message": "Bump version\n"
+  },
+  "repo": "https://github.com/ropensci/tesseract",
+  "pkg": "tesseract",
+  "time": "2026-09-06T12:34:40Z"
+}
